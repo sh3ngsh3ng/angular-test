@@ -22,7 +22,9 @@ export class ButtonComponent implements OnInit {
   printSmth() {
     console.log("Working")
   }
+
   
+
   ngOnInit(): void {
   }
 
