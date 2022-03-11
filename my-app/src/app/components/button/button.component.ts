@@ -19,6 +19,10 @@ export class ButtonComponent implements OnInit {
   //   console.log("Working")
   // }
 
+  printSmth() {
+    console.log("Working")
+  }
+  
   ngOnInit(): void {
   }
 
